@@ -1,0 +1,33 @@
+URL des livrables du Projet 8, Parcours Data Scientist
+
+* Données (images)
+https://p8-sahelbucket.s3.eu-west-3.amazonaws.com/Data/fruits-360-original-size/
+
+* Résultats (la sortie):
+https://p8-sahelbucket.s3.eu-west-3.amazonaws.com/Resultat/P8_03_pretraitement.csv
+
+* Notebook d'application Spark et Réduction de dimension en local:
+https://p8-sahelbucket.s3.eu-west-3.amazonaws.com/Taherian_Sahel_1_notebook_01.06.22.ipynb
+
+* EMR Notebook (PySpark):
+https://p8-sahelbucket.s3.eu-west-3.amazonaws.com/e-A3H9QBIA46O5WSEPEB8PY0SOX/Taherian_Sahel_notebook_EMR.ipynb
+
+* Script PySpark:
+https://p8-sahelbucket.s3.eu-west-3.amazonaws.com/Spark_application.py
+
+
+* Script bootstrap EMR:
+https://p8-sahelbucket.s3.eu-west-3.amazonaws.com/bootstrap-emr.sh
+
+* Fichier JSON de configuration du cluster EMR:
+https://p8-sahelbucket.s3.eu-west-3.amazonaws.com/config_cluster.json
+
+*Notebook sur le cloud (Databricks)contenant les scripts en Pyspark exécutables:
+https://community.cloud.databricks.com/?o=3817212552717116#notebook/3241496416044791/command/3241496416044859
+
+
+
+
+
+
+
