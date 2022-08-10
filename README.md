@@ -15,12 +15,12 @@ Réalisation :
 
 •	Découverte l’écosystème AWS : 
 
-•	Création des instances EC2 ;
+        Création des instances EC2 ;
 
-•	Création d’un cluster Elastic Map Reduce(EMR) avec plusieurs instances EC2 (1 Maître + n esclaves), Notebook des script Pyspark déployé sur EMR;
+        Création d’un cluster Elastic Map Reduce(EMR) avec plusieurs instances EC2 (1 Maître + n esclaves), Notebook des script Pyspark déployé sur EMR;
 
-•	Stockage des fichiers sur S3;
+        Stockage des fichiers sur S3;
 
-•	Administration d’un serveur Linux par SSH;
+        Administration d’un serveur Linux par SSH;
 
 •	Notebook des script Pyspark déployé sur DataBricks
