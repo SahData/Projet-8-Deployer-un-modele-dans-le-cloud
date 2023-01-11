@@ -2,6 +2,7 @@
 Le but de ce projet est de mettre à disposition du grand public une application mobile de reconnaissance de fruits et affichage d’informations.  Cette application permettrait :
 
 • Mettre en place une première version du moteur de classification des images de fruits. 
+
 • Construire une première version de l'architecture Big Data nécessaire, qui peut Amener à développer des robots cueilleurs intelligents 
 
 Modèle de classification :  Réseau RESNET50- 
